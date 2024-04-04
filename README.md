@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **angi-mint/angi-mint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=angi-mint&show_icons=true&count_private=true&theme=shades-of-purple&hide=issues,contribs&hide_border=true&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=angi-mint&layout=compact&hide_border=true&theme=shades-of-purple&bg_color=00000000&langs_count=6">
+  <p> <img src="https://komarev.com/ghpvc/?username=angi-mint&label=Profile%20views&color=aab5ee&style=flat" alt="angi-mint" /> </p>
+</div>
